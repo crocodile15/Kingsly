@@ -1,0 +1,24 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main01,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: Main02,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: On Screen,Open Sans Semibold,35,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,0
+Style: Card,Open Sans Semibold,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,5,13,13,13,1
+Style: Secondary,Open Sans Semibold,32,&H00B3B3B7,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,13,13,13,1
+Style: Chocolate,Open Sans Semibold,32,&H0031E8EF,&H0009090C,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,13,13,13,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:01:31.85,0:01:36.77,On Screen,Caption,0000,0000,0000,,Dark Vader's nefarious plot has been \Nhalted by his fellow Renho, Elizabeth!!
+Dialogue: 0,0:01:36.77,0:01:41.82,On Screen,Caption,0000,0000,0000,,A one-man rebellion has been started by someone who \Nbetrayed his home planet for the sake of his loved ones!!
+Dialogue: 0,0:01:41.82,0:01:47.79,On Screen,EpTitle,0000,0000,0000,,Empty Planet
